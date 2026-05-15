@@ -1,6 +1,6 @@
 id=themecenter-patch
 name=Generic ThemeCenter Patch 
-version=v2.0
-versionCode=2
+version=v3.0
+versionCode=3
 author=BlassGO, Benj2557
-description=Themes for Infinite Time (Samsung Devices)        
+description=Themes for Infinite Time (Samsung Devices) and bypass Dummy overlays assets to apply any custom theme.
